@@ -1,7 +1,3 @@
 # Dun Dun Dun
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+An intuitive Note Taking App to keep track of daily tasks
