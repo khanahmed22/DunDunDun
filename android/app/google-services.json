@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297674891752",
+    "project_id": "dun-dun-dun-6294c",
+    "storage_bucket": "dun-dun-dun-6294c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297674891752:android:e26d0f3df9b4127026045d",
+        "android_client_info": {
+          "package_name": "com.ahmed.dundundun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeNvDUHn-l_XCIfYmKB4i3-Ii7qBSo0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
